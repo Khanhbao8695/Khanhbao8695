@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋, I am Bao Nguyen
+## I just graduated from Oregon State University in Environmental Science
 
-<!--
-**Khanhbao8695/Khanhbao8695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I’m currently learning to become Data Scientist 🌱
+-I’m a beginner, and a leaner who is fascinated about data 😮
+-2021 Goals: Finish some projects, and get a job as Data Scientist 🌻
+-Fun Fact: I a food lover, travelaholic, and a gamer 😀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[My personal website] (https://baonguyenenvironment.com/)
+<img src="{https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white}"/>
+
