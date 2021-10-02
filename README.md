@@ -10,7 +10,7 @@
 
 -2021 Goals: Finish some projects, and get a job as Data Scientist/ Data Analyst 🌻
 
--Fun Fact: I a food lover, travelaholic, and a gamer 😀
+-Fun Fact: I am food lover, travelaholic, and a gamer 😀
 
 
 
