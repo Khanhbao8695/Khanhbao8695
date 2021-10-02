@@ -8,7 +8,7 @@
 
 -I’m a beginner, and a leaner who is fascinated about data 😮
 
--2021 Goals: Finish some projects, and get a job as Data Scientist 🌻
+-2021 Goals: Finish some projects, and get a job as Data Scientist/ Data Analyst 🌻
 
 -Fun Fact: I a food lover, travelaholic, and a gamer 😀
 
