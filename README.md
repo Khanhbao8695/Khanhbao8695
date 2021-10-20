@@ -20,6 +20,7 @@
 
 <summary>My GitHub Stats</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khanhbao8695&show_icons=true&include_all_commits=true&theme=radical" alt="Bao's github stats" />
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhbao8695&layout=compact&theme=radical" />
 </details>
 
