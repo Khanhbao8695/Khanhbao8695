@@ -25,4 +25,5 @@
 ### Connect with me:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khanhbao8695)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanhbaonguyen8695/)
+[![Portfolio](https://img.shields.io/website?style=flat-square&up_color=green&up_message=portfolio&url=https%3A%2F%2Fkhanhbao8695.github.io%2Fbaotheanalyst.github.io%2F)](https://khanhbao8695.github.io/baotheanalyst.github.io/)
 
