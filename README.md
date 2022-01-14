@@ -10,7 +10,7 @@
 
 -I have an wide range of experience in different industries but my main domain is Environmental Analysis/GeoSpatial Analysis 🌎
 
--2021 Goals: Finish some projects, and get a job as Data Scientist/ Data Analyst 🌻
+-2022 Goals: Get a job as Data Analyst and become Data Scientist 🌻
 
 -Fun Fact: I am food lover, travelaholic, and a workaholic  😀
 
