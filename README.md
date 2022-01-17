@@ -8,7 +8,7 @@
 
 -I’m a beginner, and a leaner who is fascinated about data 😮
 
--I have an wide range of experience in different industries but my main domain is Environmental Analysis/GeoSpatial Analysis 🌎
+-I have a wide range of experience in different industries but my main domain is Environmental Analysis/GeoSpatial Analysis 🌎
 
 -2022 Goals: Get a job as Data Analyst and become Data Scientist 🌻
 
