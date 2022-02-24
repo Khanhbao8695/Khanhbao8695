@@ -1,6 +1,6 @@
 # <p align="center"> Hello World 👋, I am Bao Nguyen, and I am from Vietnam </p> 
 
-### <p align="center"> Graduated with my MS from [Oregon State University](https://gradschool.oregonstate.edu/story/bao-khanh-nguyen) </p> 
+### <p align="center"> Graduated with Master Degree from [Oregon State University](https://gradschool.oregonstate.edu/story/bao-khanh-nguyen) </p> 
 
 
 
